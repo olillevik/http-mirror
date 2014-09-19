@@ -1,4 +1,4 @@
-httpmirror
+http-mirror
 ==========
 
 A simple http server that repeats your http request back to you as it sees it and writes it to a log file.
